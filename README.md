@@ -2,9 +2,12 @@
 
 ### Studying Computer Science @ Ryerson University
 
-#### Projects
 
----
+
+
+## Projects
+
+##
 Open Source:
 
 * [plotGeoJson](https://github.com/RayElg/plotGeoJson)
