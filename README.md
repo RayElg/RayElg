@@ -26,6 +26,8 @@ Closed Source:
 
 * Elimination
 
+<img src="https://i.imgur.com/diRvQsH.png" alt="Screenshot" width="165" height="349">
+
   *In Alpha on Google Play. Tracks compounds such as caffeine in the body & their estimated elimination*
 * Projective
 
