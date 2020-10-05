@@ -10,6 +10,11 @@
 ##
 Open Source:
 
+* [CrowDidact](https://devpost.com/software/crowdidact)
+
+  *Third place winner out of 89 submissions at MakeUC 2020.*
+  *A crowd-sourced platform that automatically generates user-defined course content sourced from the internet, and allows users to add both their own courses & material. Uses Django*
+
 * [plotGeoJson](https://github.com/RayElg/plotGeoJson)
 <img src="https://raw.githubusercontent.com/RayElg/plotGeoJson/master/justDots.png" alt="plotmap" width="334" height="194">
 
@@ -32,9 +37,6 @@ Closed Source:
 <img src="https://i.imgur.com/diRvQsH.png" alt="Screenshot" width="165" height="349">
 
   *In Alpha on Google Play. Tracks compounds such as caffeine in the body & their estimated elimination*
-* Projective
-
-  *In progress. Productivity app & task tracker*
 
 #### Top Languages
 
