@@ -12,7 +12,7 @@ Open Source:
 
 * [CrowDidact](https://github.com/RayElg/crowDidact)
 
-  *Third place winner out of 89 submissions at MakeUC 2020.*
+  *Second place winner out of 89 submissions at MakeUC 2020.*
   *A crowd-sourced platform that automatically generates user-defined course content sourced from the internet, and allows users to add both their own courses & material. Uses Django*
 
 * [plotGeoJson](https://github.com/RayElg/plotGeoJson)
