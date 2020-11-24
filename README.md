@@ -10,6 +10,11 @@
 ##
 Open Source:
 
+* [WikiPredict](https://raynorelgie.com/django/wikipredict/entry)
+<img src="https://raw.githubusercontent.com/RayElg/WikiPredict/main/wikipredict.png" alt="Prediction report" width=334 height="244">
+
+  *An NLP & Machine Learning model deployed with Django. Trained with data from movie dialogue & Wikipedia articles, it evaluates text for proper Wikipedia tone. Built using Spacy, Scikit-learn.*
+
 * [CrowDidact](https://github.com/RayElg/crowDidact)
 
   *Second place winner out of 89 submissions at MakeUC 2020.*
