@@ -15,6 +15,11 @@ Open Source:
 
   *An NLP & Machine Learning model deployed with Django. Trained with data from movie dialogue & Wikipedia articles, it evaluates text for proper Wikipedia tone. Built using Spacy, Scikit-learn.*
 
+## [PictureThis](https://github.com/RayElg/PictureThis)  
+<img src="https://camo.githubusercontent.com/8459220394003d3a0934d131c116393c18f4bd4e9a6dc0af818317eb9487ccff/68747470733a2f2f692e696d6775722e636f6d2f6b61376c7a554b2e706e67" alt="images uploaded by raynor" width="500" height="250">
+
+ *An image repository that handles access control, authentication, searching, and automatic tagging (through an image classification API)*
+
 ## [CrowDidact](https://github.com/RayElg/crowDidact)
 
   *Second place winner out of 89 submissions at MakeUC 2020.*
@@ -30,11 +35,6 @@ Open Source:
 <img src="https://camo.githubusercontent.com/670437c436cc82ad68e1cf5660aa517809b8dc76/68747470733a2f2f692e696d6775722e636f6d2f493047355177632e706e67" alt="a truth table" width="257" height="194">
 
   *A webpage (and a python script) for generating truth tables automatically from boolean expressions*
-
-## [PictureThis](https://github.com/RayElg/PictureThis)  
-<img src="https://camo.githubusercontent.com/8459220394003d3a0934d131c116393c18f4bd4e9a6dc0af818317eb9487ccff/68747470733a2f2f692e696d6775722e636f6d2f6b61376c7a554b2e706e67" alt="images uploaded by raynor" width="500" height="250">
-
- *An image repository that handles access control, authentication, searching, and automatic tagging (through an image classification API)*
 
 ## [runLengthEncoding](https://github.com/RayElg/runLengthEncoding)
 
