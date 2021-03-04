@@ -20,6 +20,12 @@ Open Source:
 
  *An image repository that handles access control, authentication, searching, and automatic tagging (through an image classification API)*
 
+## [Scavenger](https://devpost.com/software/scavenger-y3lmu4)
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/347/914/datas/gallery.jpg" alt="Scavenger Screenshot" width="165" height="349">
+
+ *A computer vision activity platform - uses GCP to recognize submitted images, award players points.*
+ *[View demo on DevPost](https://devpost.com/software/scavenger-y3lmu4)*
+
 ## [CrowDidact](https://github.com/RayElg/crowDidact)
 
   *Second place winner out of 89 submissions at MakeUC 2020.*
