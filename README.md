@@ -47,6 +47,13 @@ A python script that will generate a heatmap or plot features from a GeoJson fil
 [Check it out](https://github.com/RayElg/plotGeoJson)
  </details>
  
+<details><summary>Massives (N-Body simulation)</summary>
+<img src="https://camo.githubusercontent.com/1812260cedc2119ede355a9e5e1ae3e44748396eafb2fdaab6533fc437cc5d2b/68747470733a2f2f7261796e6f72656c6769652e636f6d2f73686f77636173652e676966", width="300", alt="a gif showing a moon orbiting a planet that orbits a larger body">
+
+An N-Body physics simulation written with Rust and Python. Reads universe starting state from JSON, uses Rust to do the heavy lifting, and Python for the display.
+[Check it out](https://github.com/RayElg/massives)
+
+</details>
 
 ## Languages & Interests
 
