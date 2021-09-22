@@ -61,6 +61,8 @@ I like Python, Rust, C, and Dart. I also use Java, R, PHP, and more.
 
 I'm interested in data science, computer architecture, systems programming, and app development.
 
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RayElg&layout=compact&theme=radical)](https://github.com/RayElg)
+
 ## Links, etc.
 
 [raynorelgie.com](https://raynorelgie.com)  
