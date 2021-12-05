@@ -1,6 +1,6 @@
 # Raynor Elgie
 
-### Studying CS @ Ryerson University & Interning @ WSIB
+### Studying CS @ Ryerson University
 
 ## Projects
 
