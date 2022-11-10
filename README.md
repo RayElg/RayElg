@@ -1,6 +1,6 @@
 # Raynor Elgie
 
-### Studying CS @ Ryerson University
+### Studying CS @ TMU
 
 ## Projects
 
