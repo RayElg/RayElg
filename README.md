@@ -1,6 +1,6 @@
 # Raynor Elgie
 
-### Studying CS @ TMU
+### SWE @ Tulip
 
 ## Projects
 
