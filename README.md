@@ -4,6 +4,18 @@
 
 ## Projects
 
+
+<details><summary>DBChat (SQL-integrated AI assistant)</summary>
+ 
+Client & server for database-integrated AI assistant. Allows querying against your database with natural language.
+
+<img src="https://raw.githubusercontent.com/RayElg/DBChat-Client/main/webexample.png" alt="chatwindow with AI assistant prompted to generate a report">
+
+ 
+[Check it out](https://github.com/RayElg/DBChat-Client)
+ </details>
+
+
 <details><summary>processor (Custom assembly language & interpreter)</summary>
  
 ```
@@ -20,7 +32,7 @@
     JNZ, 21 //Jump to PRNTC_LOC location if DIFF != 0
 ```
  
-This is what I'm working on right now. Taking *some* inspiration from x86, this is an assembly language and 16-register, 32-bit processor emulator.  
+Taking *some* inspiration from x86, this is an assembly language and 16-register, 32-bit processor emulator.  
 [Check it out](https://github.com/RayElg/processor)
  </details>
 
