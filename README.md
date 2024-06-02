@@ -1,6 +1,6 @@
 # Raynor Elgie
 
-### SWE @ Tulip
+### SWE @ Confluent
 
 ## Projects
 
