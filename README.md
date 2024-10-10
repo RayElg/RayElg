@@ -69,6 +69,6 @@ An N-Body physics simulation written with Rust and Python. Reads universe starti
 
 ## Links, etc.
 
-[raynorelgie.com](https://raynorelgie.com)  
+[rynr.dev](https://rynr.dev/)  
 [Linkedin](https://www.linkedin.com/in/raynor-e/)  
 
