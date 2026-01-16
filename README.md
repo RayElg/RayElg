@@ -1,6 +1,6 @@
 # Raynor Elgie
 
-### SWE @ Confluent
+### SWE @ Cribl
 
 ## Projects
 
